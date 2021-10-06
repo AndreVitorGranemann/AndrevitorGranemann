@@ -1,8 +1,8 @@
-### Olá, Seja bem vindo 👋
-###            Developer 😄
-- 🔭 Estou colaborando com a zuplae
-- 🌱 estudando Java, angular, html,css,javascript
-- 🌱 react native, flutter
+### Hello welcome 👋
+###            Developer👨‍🚀
+- 💻 I'm collaborating with the zuplae
+- 📖 Studying Java, angular, html, css, javascript.
+- 📱 react native, flutter
 ### 
 - <div>
    <a href="https://www.linkedin.com/in/andre-vitor-granemann-bba2461a7?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B8Mwht8hqRaKja9PbsSjtwg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
