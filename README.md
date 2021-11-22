@@ -1,7 +1,7 @@
 ### Hello welcome 👋
 ###            Developer👨‍🚀
 - 💻 I'm collaborating with the zuplae
-- 📖 Studying Java, angular, html, css, javascript.
+- 📖  Java
 - 📱 react native, flutter
 ### 
 - <div>
